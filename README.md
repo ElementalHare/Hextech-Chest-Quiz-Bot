@@ -19,7 +19,7 @@ pip3 install requests
 pip3 install selenium
 ```
 
-Webdriver: chromedriver.exe can be obtained from https://chromedriver.chromium.org/downloads.
+Webdriver: chromedriver.exe can be obtained from https://chromedriver.chromium.org/downloads, place webdriver in the same directory as LeagueQuizBot.py.
 
 ## Usage
 
