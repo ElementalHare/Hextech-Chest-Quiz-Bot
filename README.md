@@ -26,3 +26,7 @@ Webdriver: chromedriver.exe can be obtained from https://chromedriver.chromium.o
 ```
 ./LeagueQuizBot.py
 ```
+
+## Thanks
+
+Thanks to all those who made this possible with simple to use python packages.
